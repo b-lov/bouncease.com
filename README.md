@@ -1,3 +1,3 @@
-# nekomusicmedia
+# bouncease.com
 
-third attempt at nekomusicmedia.de using newest sveltekit version
+official website for bouncease.com
