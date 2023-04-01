@@ -11,7 +11,7 @@
 </script>
 
 <svelte:head>
-  <title>{$page.data.title || 'NEKO Music & Media GmbH'}</title>
+  <title>{$page.data.title || 'BouncEase'}</title>
   <HeadHrefLangs />
 </svelte:head>
 
