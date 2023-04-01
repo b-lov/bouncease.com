@@ -7,8 +7,6 @@
   };
 </script>
 
-<div class="flex flex-col min-h-screen">
-  <main class="pt-20 flex-grow">
-    <slot />
-  </main>
+<div class="min-h-screen flex items-center justify-center p-4">
+  <slot />
 </div>
